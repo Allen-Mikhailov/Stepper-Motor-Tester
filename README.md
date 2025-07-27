@@ -1,2 +1,2 @@
 # Stepper-Coil-Tester (WIP)
-The device will detect the coil windings of a 4 wire stepper motor (8 wires later)
+The device will allow you to test the functionality of the drv8825 driver without any code
